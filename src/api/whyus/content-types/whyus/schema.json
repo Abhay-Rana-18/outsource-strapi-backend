@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "whyuses",
+  "info": {
+    "singularName": "whyus",
+    "pluralName": "whyuses",
+    "displayName": "whyus"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    },
+    "img": {
+      "type": "text"
+    },
+    "info": {
+      "type": "component",
+      "repeatable": true,
+      "component": "json-type.data1"
+    }
+  }
+}

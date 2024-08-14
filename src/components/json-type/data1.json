@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_json_type_data1s",
+  "info": {
+    "displayName": "data",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "string"
+    }
+  }
+}
